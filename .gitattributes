@@ -1,2 +1,2 @@
 model.h5 filter=lfs diff=lfs merge=lfs -text
-E:\project\005sdk\oceanhood\com\onceahood\rh005\1.0.0 filter=lfs diff=lfs merge=lfs -text
+e/project/005sdk/oceanhood/com/onceahood/rh005/1.0.0/rh005-1.0.0.aar filter=lfs diff=lfs merge=lfs -text
